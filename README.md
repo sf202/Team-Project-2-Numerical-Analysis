@@ -14,3 +14,5 @@ Successive Over Relaxation
 Iterative Refinement
 
 Preconditioned conjugage gradient method. 
+
+Evaluate performance (complexity,accuracy and stability). 
