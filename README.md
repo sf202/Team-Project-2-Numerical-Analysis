@@ -16,3 +16,5 @@ Iterative Refinement
 Preconditioned conjugage gradient method. 
 
 Evaluate performance (complexity,accuracy and stability). 
+
+To compile all seven algorithms run the test method. The testmethod.py will print out a graph plotting all seven methods as well as the plots.
