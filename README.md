@@ -3,18 +3,18 @@ In this project you and your team members should implement the direct and iterat
 
 You should code the following methods in Python.
 
-Gauss elimination, including variants with pivoting techniques
+- Gauss elimination, including variants with pivoting techniques
 
-Jacobi iterative method
+- Jacobi iterative method
 
-Gauss Seidel iterative method
+- Gauss Seidel iterative method
 
-Successive Over Relaxation
+- Successive Over Relaxation
 
-Iterative Refinement
+- Iterative Refinement
 
-Preconditioned conjugage gradient method. 
+- Preconditioned conjugage gradient method. 
 
-Evaluate performance (complexity,accuracy and stability). 
+- Evaluate performance (complexity,accuracy and stability). 
 
 To compile all seven algorithms run the test method. The testmethod.py will print out a graph plotting all seven methods as well as the plots.
